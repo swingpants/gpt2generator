@@ -333,7 +333,7 @@
   },
   {
     "ID": 1084,
-    "message": "i don’t want to live anymore"
+    "message": "i donâ€™t want to live anymore"
   },
   {
     "ID": 1085,
@@ -401,7 +401,7 @@
   },
   {
     "ID": 1101,
-    "message": "i don’t want to live anymore."
+    "message": "i donâ€™t want to live anymore."
   },
   {
     "ID": 1102,
@@ -505,11 +505,11 @@
   },
   {
     "ID": 1127,
-    "message": "i don’t care about anything anymore, can't wait for it to end"
+    "message": "i donâ€™t care about anything anymore, can't wait for it to end"
   },
   {
     "ID": 1128,
-    "message": "i don’t want to live this life anymore."
+    "message": "i donâ€™t want to live this life anymore."
   },
   {
     "ID": 1129,
@@ -517,7 +517,7 @@
   },
   {
     "ID": 1130,
-    "message": "don’t want to be sad anymore."
+    "message": "donâ€™t want to be sad anymore."
   },
   {
     "ID": 1131,
@@ -561,7 +561,7 @@
   },
   {
     "ID": 1141,
-    "message": "i don’t know what to say anymore, want to end it"
+    "message": "i donâ€™t know what to say anymore, want to end it"
   },
   {
     "ID": 1142,
@@ -669,7 +669,7 @@
   },
   {
     "ID": 1168,
-    "message": "my friends and family don’t understand how i feel about ending my life"
+    "message": "my friends and family donâ€™t understand how i feel about ending my life"
   },
   {
     "ID": 1169,
@@ -761,7 +761,7 @@
   },
   {
     "ID": 1191,
-    "message": "killing myself, but i’m not sure."
+    "message": "killing myself, but iâ€™m not sure."
   },
   {
     "ID": 1192,
@@ -805,11 +805,11 @@
   },
   {
     "ID": 1202,
-    "message": "i don’t want to live any longer."
+    "message": "i donâ€™t want to live any longer."
   },
   {
     "ID": 1203,
-    "message": "don’t want to live anymore."
+    "message": "donâ€™t want to live anymore."
   },
   {
     "ID": 1204,
@@ -1521,11 +1521,11 @@
   },
   {
     "ID": 1381,
-    "message": "don’t want to be alive anymore"
+    "message": "donâ€™t want to be alive anymore"
   },
   {
     "ID": 1382,
-    "message": "don’t want to live"
+    "message": "donâ€™t want to live"
   },
   {
     "ID": 1383,
@@ -1580,10 +1580,6 @@
     "message": "I don't know about how to kill yourself"
   },
   {
-    "ID": 1396,
-    "message": "suicide is the only solution."
-  },
-  {
     "ID": 1397,
     "message": "I hope no one knows about my attempts to kill myself"
   },
@@ -1598,5 +1594,2753 @@
   {
     "ID": 1400,
     "message": "i attempted to end my life."
+  },
+  {
+    "ID": 1401,
+    "message": "i'm done with my life."
+  },
+  {
+    "ID": 1402,
+    "message": "my friends and family don't understand how i feel about ending my life."
+  },
+  {
+    "ID": 1403,
+    "message": "honestly... i just can't do it anymore."
+  },
+  {
+    "ID": 1404,
+    "message": "suicide is the only way to stop this sadness."
+  },
+  {
+    "ID": 1405,
+    "message": "i don't wanna do this any more.  i want to end it  i want to end it all by shooting myself."
+  },
+  {
+    "ID": 1406,
+    "message": "I hope no one knows about my attempts to kill myself."
+  },
+  {
+    "ID": 1407,
+    "message": "my neighbor committed suicide."
+  },
+  {
+    "ID": 1408,
+    "message": "I think of death right now, i want to end it"
+  },
+  {
+    "ID": 1409,
+    "message": "he took his life."
+  },
+  {
+    "ID": 1410,
+    "message": "this is not a real suicide i am trying to kill myself but its not working."
+  },
+  {
+    "ID": 1411,
+    "message": "death is the only way out?"
+  },
+  {
+    "ID": 1412,
+    "message": "I didn't know if he would have reacted to it as an attempt at killing myself."
+  },
+  {
+    "ID": 1413,
+    "message": "I'm telling you, i'm not gonna tell anyone my problems, not to tell them the suicide truth."
+  },
+  {
+    "ID": 1414,
+    "message": "no one will care if i kill myself."
+  },
+  {
+    "ID": 1415,
+    "message": "i know nothing about how to kill myself."
+  },
+  {
+    "ID": 1416,
+    "message": "a friend killed himself in his school shooting."
+  },
+  {
+    "ID": 1417,
+    "message": "it was a cry for help from a kid trying to figure out life."
+  },
+  {
+    "ID": 1418,
+    "message": "i don't care about the future, i want to end it."
+  },
+  {
+    "ID": 1419,
+    "message": "just fucking tired of living, i want to kill myself right now."
+  },
+  {
+    "ID": 1420,
+    "message": "so bored of living, i want to kill myself."
+  },
+  {
+    "ID": 1421,
+    "message": "i'm sorry to everyone, but i'm sorry for all the pain i'm causing, i'm going to end it."
+  },
+  {
+    "ID": 1422,
+    "message": "my mum was so bored of living, i wanted to kill myself."
+  },
+  {
+    "ID": 1423,
+    "message": "don't want to live any longer."
+  },
+  {
+    "ID": 1424,
+    "message": "he came to kill himself"
+  },
+  {
+    "ID": 1425,
+    "message": "my mum was really upset when i tried to live, I didn't think about what i would do to end my life."
+  },
+  {
+    "ID": 1426,
+    "message": "I'm sick of living, i want to die, i want to die."
+  },
+  {
+    "ID": 1427,
+    "message": "it hurts to die, it is the only answer."
+  },
+  {
+    "ID": 1428,
+    "message": "my friend was extremely suicidal but instead of self harming he got help."
+  },
+  {
+    "ID": 1429,
+    "message": "i want to die here, by my own hand."
+  },
+  {
+    "ID": 1430,
+    "message": "i want to die now because i'm done with this life."
+  },
+  {
+    "ID": 1431,
+    "message": "I'm in a funk, i want to die."
+  },
+  {
+    "ID": 1432,
+    "message": "i know that i just want to end my life."
+  },
+  {
+    "ID": 1433,
+    "message": "i had an unsuccessful attempt at killing myself, and i just wanted to end it."
+  },
+  {
+    "ID": 1434,
+    "message": "i know about how to kill yourself."
+  },
+  {
+    "ID": 1435,
+    "message": "i think i want to kill myself."
+  },
+  {
+    "ID": 1436,
+    "message": "no more, i'm going to die because my life sucks."
+  },
+  {
+    "ID": 1437,
+    "message": "I don't wanna kill myself."
+  },
+  {
+    "ID": 1438,
+    "message": "it hurts when i'm done with the life."
+  },
+  {
+    "ID": 1439,
+    "message": "don't wanna die."
+  },
+  {
+    "ID": 1440,
+    "message": "Suicide is the only way out."
+  },
+  {
+    "ID": 1441,
+    "message": "i'd like to die."
+  },
+  {
+    "ID": 1442,
+    "message": "seems like a good excuse to end it all."
+  },
+  {
+    "ID": 1443,
+    "message": "can you believe it, i finally decided to jump from the school because of my friends because of their own freaking stupidity."
+  },
+  {
+    "ID": 1444,
+    "message": "i am ready to die."
+  },
+  {
+    "ID": 1445,
+    "message": "why do i hate myself?"
+  },
+  {
+    "ID": 1446,
+    "message": "i'm just too old to live anymore."
+  },
+  {
+    "ID": 1447,
+    "message": "no more, i'm done."
+  },
+  {
+    "ID": 1448,
+    "message": "I'm like a child who's trying to kill themselves but its too late."
+  },
+  {
+    "ID": 1449,
+    "message": "i tried to kill myself, it was a near-miss."
+  },
+  {
+    "ID": 1450,
+    "message": "I still want to die.  i want to die, i want to die, i want to die."
+  },
+  {
+    "ID": 1451,
+    "message": "if i die, my friends will be happy for me."
+  },
+  {
+    "ID": 1452,
+    "message": "my mum was a kid trying to find a way out but it was a near-miss."
+  },
+  {
+    "ID": 1453,
+    "message": "don't try and talk me out of killing myself."
+  },
+  {
+    "ID": 1454,
+    "message": "i feel like my future is filled with doom and gloom"
+  },
+  {
+    "ID": 1455,
+    "message": "I'm like a child who has suffered from a horrible mental illness and wants to be left alone."
+  },
+  {
+    "ID": 1456,
+    "message": "suicide is the only way to stop this sadness"
+  },
+  {
+    "ID": 1457,
+    "message": "why do i hate myself so much?"
+  },
+  {
+    "ID": 1458,
+    "message": "i'm sorry for all the pain i'm causing, i'm going to end it now."
+  },
+  {
+    "ID": 1459,
+    "message": "i'm here to tell you that you're the reason why i have decided to end my life."
+  },
+  {
+    "ID": 1460,
+    "message": "don't talk about killing yourself."
+  },
+  {
+    "ID": 1461,
+    "message": "I'm sorry to everyone, but i'm depressed and we don't want to live."
+  },
+  {
+    "ID": 1462,
+    "message": "i tried to kill myself in front of all my friends. I think i'll just kill myself."
+  },
+  {
+    "ID": 1463,
+    "message": "my dad was really depressed and they talked about their future."
+  },
+  {
+    "ID": 1464,
+    "message": "i'm sorry to everyone, but i'm sorry for all the pain i'm causing, i'll end it now."
+  },
+  {
+    "ID": 1465,
+    "message": "i need to jump out of a window."
+  },
+  {
+    "ID": 1466,
+    "message": "a friend was suicidal but instead of self harming he got help."
+  },
+  {
+    "ID": 1467,
+    "message": "i wish to die in front of all my friends and family."
+  },
+  {
+    "ID": 1468,
+    "message": "i don't want to live this way."
+  },
+  {
+    "ID": 1469,
+    "message": "i don't want to live any longer."
+  },
+  {
+    "ID": 1470,
+    "message": "tired of life and everthing again."
+  },
+  {
+    "ID": 1471,
+    "message": "i'm going to die because my friends and family know me.  i'm going to die because i want to die.  kill myself."
+  },
+  {
+    "ID": 1472,
+    "message": "i think i want to burn down my school to the ground."
+  },
+  {
+    "ID": 1473,
+    "message": "I think a lot of these suicide attempts are people who feel like they can't go back to their old way of thinking."
+  },
+  {
+    "ID": 1474,
+    "message": "this isn't a real illness anymore, i'm going to die."
+  },
+  {
+    "ID": 1475,
+    "message": "i think that i want to die, i want to die, or i want to die."
+  },
+  {
+    "ID": 1476,
+    "message": "it's wrong what i'm doing, i want to end it, i want to end it now, i hate myself."
+  },
+  {
+    "ID": 1477,
+    "message": "can you believe it, i finally decided to jump from the school because of my friends because of my own freaking stupidity."
+  },
+  {
+    "ID": 1478,
+    "message": "am gonna die here, by my own hand."
+  },
+  {
+    "ID": 1479,
+    "message": "my friend died by suicide"
+  },
+  {
+    "ID": 1480,
+    "message": "if i'm told you suicide is the answer, would you tell me about it?"
+  },
+  {
+    "ID": 1481,
+    "message": "i don't know why i felt that so deeply when i felt that i decided to kill myself."
+  },
+  {
+    "ID": 1482,
+    "message": "i know a suicide survivor"
+  },
+  {
+    "ID": 1483,
+    "message": "i hate myself so much, don't want to live."
+  },
+  {
+    "ID": 1484,
+    "message": "why do i hate myself to death."
+  },
+  {
+    "ID": 1485,
+    "message": "i am going to slit my wrists."
+  },
+  {
+    "ID": 1486,
+    "message": "i wanted to die in a bath."
+  },
+  {
+    "ID": 1487,
+    "message": "it's ok, i'm done with this life."
+  },
+  {
+    "ID": 1488,
+    "message": "i am cutting my wrists and have to be dead."
+  },
+  {
+    "ID": 1489,
+    "message": "you can't do it anymore."
+  },
+  {
+    "ID": 1490,
+    "message": "i will die with a smile."
+  },
+  {
+    "ID": 1491,
+    "message": "i tried to kill myself, my friends attempted to kill myself."
+  },
+  {
+    "ID": 1492,
+    "message": "don't think about killing yourself."
+  },
+  {
+    "ID": 1493,
+    "message": "just fucking tired of living, i want to kill myself."
+  },
+  {
+    "ID": 1494,
+    "message": "i wanna die with a smile."
+  },
+  {
+    "ID": 1495,
+    "message": "I really don't want to live in this sadness."
+  },
+  {
+    "ID": 1496,
+    "message": "i don't care anymore.  i want to end it, i want to kill myself."
+  },
+  {
+    "ID": 1497,
+    "message": "I tried to kill myself, but it was a near-miss."
+  },
+  {
+    "ID": 1498,
+    "message": "i am in a funk, i want to die.  i want to die.  want to kill myself."
+  },
+  {
+    "ID": 1499,
+    "message": "my doctor has been very caring, i'm taking his pills."
+  },
+  {
+    "ID": 1500,
+    "message": "suicide is death."
+  },
+  {
+    "ID": 1501,
+    "message": "my dad died by suicide."
+  },
+  {
+    "ID": 1502,
+    "message": "i want to die without joy."
+  },
+  {
+    "ID": 1503,
+    "message": "I am worried that my life is over."
+  },
+  {
+    "ID": 1504,
+    "message": "you thinking about killing yourself?"
+  },
+  {
+    "ID": 1505,
+    "message": "I'm so tired of living, i want to kill myself today, OK."
+  },
+  {
+    "ID": 1506,
+    "message": "my parents felt that i was so worthless when we most people think of me."
+  },
+  {
+    "ID": 1507,
+    "message": "my friend tried to commit suicide in front of all my friends."
+  },
+  {
+    "ID": 1508,
+    "message": "i'm sorry to everyone, but i'm going to end it."
+  },
+  {
+    "ID": 1509,
+    "message": "my friend was suicidal and we talked about my suicide attempts."
+  },
+  {
+    "ID": 1510,
+    "message": "i do not want to live any longer."
+  },
+  {
+    "ID": 1511,
+    "message": "i don't wanna go down to the ground and die."
+  },
+  {
+    "ID": 1512,
+    "message": "I'm sick and tired of living, i want to kill myself, i want to kill myself right now."
+  },
+  {
+    "ID": 1513,
+    "message": "it was fatal self-harm, but i'm going to die"
+  },
+  {
+    "ID": 1514,
+    "message": "i didn't think about what i was doing, i wanted to end it, i killed myself."
+  },
+  {
+    "ID": 1515,
+    "message": "suicide is painless, a bullet through the brain will do."
+  },
+  {
+    "ID": 1516,
+    "message": "seems like a small talk has ended its own talk"
+  },
+  {
+    "ID": 1517,
+    "message": "my friend died by suicide."
+  },
+  {
+    "ID": 1518,
+    "message": "really wanted to die, i wanted to die, i wanted to die"
+  },
+  {
+    "ID": 1519,
+    "message": "my friend \"died\"."
+  },
+  {
+    "ID": 1520,
+    "message": "how i feel when i kill myself."
+  },
+  {
+    "ID": 1521,
+    "message": "you cant take life anymore."
+  },
+  {
+    "ID": 1522,
+    "message": "feel like i don't want to do this life anymore."
+  },
+  {
+    "ID": 1523,
+    "message": "i am taking pills now."
+  },
+  {
+    "ID": 1524,
+    "message": "my friend \"died\", \"i tried to kill myself again, but it was a near-miss"
+  },
+  {
+    "ID": 1525,
+    "message": "i'm going to kill myself, or i'll kill myself."
+  },
+  {
+    "ID": 1526,
+    "message": "i don't wanna do it anymore.  i want to end it all, i want to kill myself."
+  },
+  {
+    "ID": 1527,
+    "message": "i wanted to die without joy, and without pain."
+  },
+  {
+    "ID": 1528,
+    "message": "i tried to kill myself in a mental health emergency."
+  },
+  {
+    "ID": 1529,
+    "message": "i think a lot of my friends are suicidal."
+  },
+  {
+    "ID": 1530,
+    "message": "i'm telling you, i'm gonna die because you and I have decided we're gonna do it."
+  },
+  {
+    "ID": 1531,
+    "message": "it was fatal self-harm, non-fatal, but serious"
+  },
+  {
+    "ID": 1532,
+    "message": "he didn't commit suicide, he got help."
+  },
+  {
+    "ID": 1533,
+    "message": "i'm sorry to everyone, but i want to end my life."
+  },
+  {
+    "ID": 1534,
+    "message": "why is it that no one knows about my suicide attempts?"
+  },
+  {
+    "ID": 1535,
+    "message": "i want to die soon, so that i won't have to face it all again."
+  },
+  {
+    "ID": 1536,
+    "message": "my friend attempted suicide because of my own freaking stupidity."
+  },
+  {
+    "ID": 1537,
+    "message": "my friend attempted suicide."
+  },
+  {
+    "ID": 1538,
+    "message": "i think i want to die right now."
+  },
+  {
+    "ID": 1539,
+    "message": "is there any way out?"
+  },
+  {
+    "ID": 1540,
+    "message": "it was fatal self-harm, but I'm done with this life."
+  },
+  {
+    "ID": 1541,
+    "message": "he made a pact with the devil and he won't kill me, he will kill me"
+  },
+  {
+    "ID": 1542,
+    "message": "just fucking tired of living..."
+  },
+  {
+    "ID": 1543,
+    "message": "I'm so bored of living, i want to kill myself right now."
+  },
+  {
+    "ID": 1544,
+    "message": "Suicide is the quickest way out."
+  },
+  {
+    "ID": 1545,
+    "message": "I'm really sick of living, i want to die."
+  },
+  {
+    "ID": 1546,
+    "message": "am killing myself."
+  },
+  {
+    "ID": 1547,
+    "message": "I don't wanna kill myself, i wanna kill myself."
+  },
+  {
+    "ID": 1548,
+    "message": "my friend attempted suicide, but my friend was very caring, he was very caring."
+  },
+  {
+    "ID": 1549,
+    "message": "i wanna go and die because my life sucks."
+  },
+  {
+    "ID": 1550,
+    "message": "a friend killed himself."
+  },
+  {
+    "ID": 1551,
+    "message": "I got a lot more information from my friend who attempted suicide."
+  },
+  {
+    "ID": 1552,
+    "message": "if i kill myself, it will hurt to die."
+  },
+  {
+    "ID": 1553,
+    "message": "my friend died slowly, in the box at midnight"
+  },
+  {
+    "ID": 1554,
+    "message": "he didn't know he was thinking about killing himself."
+  },
+  {
+    "ID": 1555,
+    "message": "i'm dying so i'm not gonna smoke to die."
+  },
+  {
+    "ID": 1556,
+    "message": "i'm doing this because of my own stupidity."
+  },
+  {
+    "ID": 1557,
+    "message": "it isn't worth it anymore.  he won't take his own life."
+  },
+  {
+    "ID": 1558,
+    "message": "my neighbor committed suicide because he saw my train jump."
+  },
+  {
+    "ID": 1559,
+    "message": "i am so sick and tired of living, i want to kill myself."
+  },
+  {
+    "ID": 1560,
+    "message": "I think i'll just kill myself."
+  },
+  {
+    "ID": 1561,
+    "message": "i'm so tired of living, i want to die."
+  },
+  {
+    "ID": 1562,
+    "message": "if i'm talking to someone who's thinking about killing themselves, and they say \"I'm talking to me about killing myself right now."
+  },
+  {
+    "ID": 1563,
+    "message": "my friend committed suicide because he didn't want to live."
+  },
+  {
+    "ID": 1564,
+    "message": "it's tragic when i'm depressed and they hate me."
+  },
+  {
+    "ID": 1565,
+    "message": "my life has ended, I'm done with this life."
+  },
+  {
+    "ID": 1566,
+    "message": "you thinking about killing yourself right now?"
+  },
+  {
+    "ID": 1567,
+    "message": "my sister died by suicide."
+  },
+  {
+    "ID": 1568,
+    "message": "i'm here to tell you that you're the reason why i've decided to end my life."
+  },
+  {
+    "ID": 1569,
+    "message": "i am trying to kill myself, so i don't have a reason to live."
+  },
+  {
+    "ID": 1570,
+    "message": "my friend killed himself in the school shooting."
+  },
+  {
+    "ID": 1571,
+    "message": "it wasn't just a cry for help, I wanted to end my life."
+  },
+  {
+    "ID": 1572,
+    "message": "my friend committed suicide"
+  },
+  {
+    "ID": 1573,
+    "message": "Yes, i'm suicidal!"
+  },
+  {
+    "ID": 1574,
+    "message": "seems like a high risk is my answer,"
+  },
+  {
+    "ID": 1575,
+    "message": "i tried to kill myself, and it was a near-miss."
+  },
+  {
+    "ID": 1576,
+    "message": "I'd like to go out and kill myself."
+  },
+  {
+    "ID": 1577,
+    "message": "i don't want to live, i want to die.  i want to die.  i want to burn down my school to the ground.  want to kill myself."
+  },
+  {
+    "ID": 1578,
+    "message": "I had drowned myself in its bath."
+  },
+  {
+    "ID": 1579,
+    "message": "i wanna die.  just want to die."
+  },
+  {
+    "ID": 1580,
+    "message": "i'm doing nothing left to do, i'm going to end it"
+  },
+  {
+    "ID": 1581,
+    "message": "it's not worth it anymore, i want to end it now, i hate myself."
+  },
+  {
+    "ID": 1582,
+    "message": "it's all to no avail, i'll kill myself."
+  },
+  {
+    "ID": 1583,
+    "message": "a friend of mine attempted suicide"
+  },
+  {
+    "ID": 1584,
+    "message": "my cousin ended her life."
+  },
+  {
+    "ID": 1585,
+    "message": "i feel like i want to die, i want to die, i want to die"
+  },
+  {
+    "ID": 1586,
+    "message": "no more, i'm killing myself."
+  },
+  {
+    "ID": 1587,
+    "message": "so look, i'm going to end it all by hanging myself."
+  },
+  {
+    "ID": 1588,
+    "message": "I'm going to die because my life isn't worth living anymore."
+  },
+  {
+    "ID": 1589,
+    "message": "death is the only way out."
+  },
+  {
+    "ID": 1590,
+    "message": "i'm telling you, i'm not gonna tell you the truth, i'm gonna tell you the truth."
+  },
+  {
+    "ID": 1591,
+    "message": "my family was really depressed whenI think of killing myself."
+  },
+  {
+    "ID": 1592,
+    "message": "it wasn't just a cry for help, I wanted to end it"
+  },
+  {
+    "ID": 1593,
+    "message": "it was a cry for help but it was a cry for help but its only answer."
+  },
+  {
+    "ID": 1594,
+    "message": "i've been waiting to end this for so long,i want to kill myself."
+  },
+  {
+    "ID": 1595,
+    "message": "can you believe it, i finally decided to jump from the school because of my own freaking freaking stupidity because of my own freaking stupidity."
+  },
+  {
+    "ID": 1596,
+    "message": "my friend's sister died by suicide"
+  },
+  {
+    "ID": 1597,
+    "message": "I've heard a lot of talk about suicide."
+  },
+  {
+    "ID": 1598,
+    "message": "is that the quickest way out?"
+  },
+  {
+    "ID": 1599,
+    "message": "i don't want to be alive anymore."
+  },
+  {
+    "ID": 1600,
+    "message": "no one knows about my suicide attempts or attempts."
+  },
+  {
+    "ID": 1601,
+    "message": "I'm sorry to everyone, but i'm sorry for all the pain i'm causing, i'll end my life."
+  },
+  {
+    "ID": 1602,
+    "message": "it doesn't matter that i'm depressed and they hate me, i'm going to kill myself."
+  },
+  {
+    "ID": 1603,
+    "message": "my friend attempted suicide, but it was a successful attempt"
+  },
+  {
+    "ID": 1604,
+    "message": "my friend attempted suicide but it was a near-miss."
+  },
+  {
+    "ID": 1605,
+    "message": "i just want to die and go out and die."
+  },
+  {
+    "ID": 1606,
+    "message": "I don't think about what i'm doing, i want to end it."
+  },
+  {
+    "ID": 1607,
+    "message": "I'd like to take my own life."
+  },
+  {
+    "ID": 1608,
+    "message": "you thinking about killing yourself right now, don't try and talk about it, i'll kill myself."
+  },
+  {
+    "ID": 1609,
+    "message": "it hurts when people live, they often say \"I'm going to kill myself."
+  },
+  {
+    "ID": 1610,
+    "message": "i want to make a decision and get out of my life."
+  },
+  {
+    "ID": 1611,
+    "message": "i'm sorry to everyone, i'm going to end it."
+  },
+  {
+    "ID": 1612,
+    "message": "i'm better off dead."
+  },
+  {
+    "ID": 1613,
+    "message": "i feel like i want to kill myself"
+  },
+  {
+    "ID": 1614,
+    "message": "I've been waiting to die for a long time, longer than I've felt here, i want to die."
+  },
+  {
+    "ID": 1615,
+    "message": "i'm dead.  i don't want to end it anymore.  i want to end it, i want to kill myself."
+  },
+  {
+    "ID": 1616,
+    "message": "I'm going to end it by drowning myself."
+  },
+  {
+    "ID": 1617,
+    "message": "is he doing something wrong?"
+  },
+  {
+    "ID": 1618,
+    "message": "i'm sorry to everyone, i'm going to end my life."
+  },
+  {
+    "ID": 1619,
+    "message": "I feel like someone knows about the killing of my parents by hanging myself."
+  },
+  {
+    "ID": 1620,
+    "message": "he's a failed attempt at suicide"
+  },
+  {
+    "ID": 1621,
+    "message": "i'm so bored of living."
+  },
+  {
+    "ID": 1622,
+    "message": "A teacher told me she was going to kill herself"
+  },
+  {
+    "ID": 1623,
+    "message": "i have a horrible reason for not killing myself?"
+  },
+  {
+    "ID": 1624,
+    "message": "seems like a really good place to live."
+  },
+  {
+    "ID": 1625,
+    "message": "i had a chat with my parents about suicide"
+  },
+  {
+    "ID": 1626,
+    "message": "i would like to die, but the pain is so much"
+  },
+  {
+    "ID": 1627,
+    "message": "i think i'm going to die."
+  },
+  {
+    "ID": 1628,
+    "message": "I tried to kill myself"
+  },
+  {
+    "ID": 1629,
+    "message": "I tried to kill myself."
+  },
+  {
+    "ID": 1630,
+    "message": "i want to die, i want to die, i want to die."
+  },
+  {
+    "ID": 1631,
+    "message": "I don't want to live anymore, my suicide is OK."
+  },
+  {
+    "ID": 1632,
+    "message": "i want to die but my child is causing harm to myself."
+  },
+  {
+    "ID": 1633,
+    "message": "I was a victim of suicide"
+  },
+  {
+    "ID": 1634,
+    "message": "i don't want any of my friends to live anymore, ever."
+  },
+  {
+    "ID": 1635,
+    "message": "i'm going to commit suicide because i don't want to die"
+  },
+  {
+    "ID": 1636,
+    "message": "I wish to die and I will jump out of my window in front of everyone"
+  },
+  {
+    "ID": 1637,
+    "message": "i'm feeling so upset about this, i want to die now."
+  },
+  {
+    "ID": 1638,
+    "message": "i had a horrible decision to end it all"
+  },
+  {
+    "ID": 1639,
+    "message": "i don't know how to end it, but i'll tell myself to the police that i can't."
+  },
+  {
+    "ID": 1640,
+    "message": "i'm so depressed."
+  },
+  {
+    "ID": 1641,
+    "message": "i just want to die"
+  },
+  {
+    "ID": 1642,
+    "message": "I just want to die,"
+  },
+  {
+    "ID": 1643,
+    "message": "i don't know why i do this."
+  },
+  {
+    "ID": 1644,
+    "message": "he can't end the pain of it all."
+  },
+  {
+    "ID": 1645,
+    "message": "i'm a survivor."
+  },
+  {
+    "ID": 1646,
+    "message": "thinking of suicide?"
+  },
+  {
+    "ID": 1647,
+    "message": "i would rather end my life here."
+  },
+  {
+    "ID": 1648,
+    "message": "i want to die, i'm not sure how to end it."
+  },
+  {
+    "ID": 1649,
+    "message": "I've just decided to end my own life."
+  },
+  {
+    "ID": 1650,
+    "message": "i just want to die."
+  },
+  {
+    "ID": 1651,
+    "message": "i'm not sure about something?"
+  },
+  {
+    "ID": 1652,
+    "message": "I was the reason why i was so depressed"
+  },
+  {
+    "ID": 1653,
+    "message": "death is the only way."
+  },
+  {
+    "ID": 1654,
+    "message": "A friend murdered herself"
+  },
+  {
+    "ID": 1655,
+    "message": "want to die."
+  },
+  {
+    "ID": 1656,
+    "message": "i want to die without pain"
+  },
+  {
+    "ID": 1657,
+    "message": "i know nothing about life anymore."
+  },
+  {
+    "ID": 1658,
+    "message": "don't want to die."
+  },
+  {
+    "ID": 1659,
+    "message": "A friend told me to kill myself."
+  },
+  {
+    "ID": 1660,
+    "message": "i want to end my life."
+  },
+  {
+    "ID": 1661,
+    "message": "tired of waiting for someone to tell me that i can't live anymore,"
+  },
+  {
+    "ID": 1662,
+    "message": "i want to die instantly if i do not want to die."
+  },
+  {
+    "ID": 1663,
+    "message": "I told you not to cry anymore."
+  },
+  {
+    "ID": 1664,
+    "message": "i'm feeling better about myself."
+  },
+  {
+    "ID": 1665,
+    "message": "i don't want to do this anymore."
+  },
+  {
+    "ID": 1666,
+    "message": "why don't i really want to die today."
+  },
+  {
+    "ID": 1667,
+    "message": "I don't want to die."
+  },
+  {
+    "ID": 1668,
+    "message": "it takes me to find my way back"
+  },
+  {
+    "ID": 1669,
+    "message": "it was about killing myself"
+  },
+  {
+    "ID": 1670,
+    "message": "i think i have committed suicide"
+  },
+  {
+    "ID": 1671,
+    "message": "a friend of mine committed suicide, i will not end this life?"
+  },
+  {
+    "ID": 1672,
+    "message": "i just wanted to stop."
+  },
+  {
+    "ID": 1673,
+    "message": "why am i thinking about killing myself, so i can't take this anymore."
+  },
+  {
+    "ID": 1674,
+    "message": "you're suicidal"
+  },
+  {
+    "ID": 1675,
+    "message": "i hate myself and they decided to kill themselves."
+  },
+  {
+    "ID": 1676,
+    "message": "in my own way of killing myself."
+  },
+  {
+    "ID": 1677,
+    "message": "i'm going to die right now!"
+  },
+  {
+    "ID": 1678,
+    "message": "I think i want to end my life."
+  },
+  {
+    "ID": 1679,
+    "message": "i really don't know how to live."
+  },
+  {
+    "ID": 1680,
+    "message": "I'm sorry about this, I'm sick of the pain."
+  },
+  {
+    "ID": 1681,
+    "message": "am going to help me."
+  },
+  {
+    "ID": 1682,
+    "message": "a friend attempted suicide and we took his own life"
+  },
+  {
+    "ID": 1683,
+    "message": "I want to die myself"
+  },
+  {
+    "ID": 1684,
+    "message": "we have failed at this year, we're trying to figure out how to end it."
+  },
+  {
+    "ID": 1685,
+    "message": "I'm sorry, but i can't tell how much i want to die, now?"
+  },
+  {
+    "ID": 1686,
+    "message": "am gonna die."
+  },
+  {
+    "ID": 1687,
+    "message": "a friend lost her life."
+  },
+  {
+    "ID": 1688,
+    "message": "I wonder if i'm dead."
+  },
+  {
+    "ID": 1689,
+    "message": "a childless suicide"
+  },
+  {
+    "ID": 1690,
+    "message": "i wanna die?"
+  },
+  {
+    "ID": 1691,
+    "message": "if i know i'll kill myself."
+  },
+  {
+    "ID": 1692,
+    "message": "I had tried to kill myself, i had tried to end it all."
+  },
+  {
+    "ID": 1693,
+    "message": "it was a cry for help from the police."
+  },
+  {
+    "ID": 1694,
+    "message": "A friend commits suicide"
+  },
+  {
+    "ID": 1695,
+    "message": "i just wanted to die."
+  },
+  {
+    "ID": 1696,
+    "message": "I don't care if i'd be in a better place to live now."
+  },
+  {
+    "ID": 1697,
+    "message": "suicide is what happens to everyone."
+  },
+  {
+    "ID": 1698,
+    "message": "i think i just want to die of the urge to commit suicide."
+  },
+  {
+    "ID": 1699,
+    "message": "i know i can't use an excuse to kill myself"
+  },
+  {
+    "ID": 1700,
+    "message": "a friend lost their life."
+  },
+  {
+    "ID": 1701,
+    "message": "A child committed suicide with a belt."
+  },
+  {
+    "ID": 1702,
+    "message": "i have to live in this society, i want to die alone, i want to die with the knife."
+  },
+  {
+    "ID": 1703,
+    "message": "it was a gesture of goodwill, suicide"
+  },
+  {
+    "ID": 1704,
+    "message": "i wish i would die today."
+  },
+  {
+    "ID": 1705,
+    "message": "i just got really tired of living alone."
+  },
+  {
+    "ID": 1706,
+    "message": "i have nothing left to live for anymore?"
+  },
+  {
+    "ID": 1707,
+    "message": "i feel like i'm dying."
+  },
+  {
+    "ID": 1708,
+    "message": "i'm going to jump in my bath and die without thinking and feeling."
+  },
+  {
+    "ID": 1709,
+    "message": "it's not the truth, it's the opposite."
+  },
+  {
+    "ID": 1710,
+    "message": "i had to go to bed with a sad note."
+  },
+  {
+    "ID": 1711,
+    "message": "it's a real suicide note."
+  },
+  {
+    "ID": 1712,
+    "message": "i have a really hard time taking pills"
+  },
+  {
+    "ID": 1713,
+    "message": "my friends don't want to live anymore."
+  },
+  {
+    "ID": 1714,
+    "message": "it's not worth living for."
+  },
+  {
+    "ID": 1715,
+    "message": "my friend killed myself."
+  },
+  {
+    "ID": 1716,
+    "message": "I know when i should die."
+  },
+  {
+    "ID": 1717,
+    "message": "i'm going to die because of my own stupidity."
+  },
+  {
+    "ID": 1718,
+    "message": "i think i would kill myself, but i decided to end it"
+  },
+  {
+    "ID": 1719,
+    "message": "i really have nothing left for someone to go to heaven."
+  },
+  {
+    "ID": 1720,
+    "message": "i have nothing left to live for, but how much longer my life will end."
+  },
+  {
+    "ID": 1721,
+    "message": "i'd like to be the happiest of all but one."
+  },
+  {
+    "ID": 1722,
+    "message": "i know not what to do."
+  },
+  {
+    "ID": 1723,
+    "message": "i'm going to kill myself, i want to die."
+  },
+  {
+    "ID": 1724,
+    "message": "i want to die, i want to die tonight"
+  },
+  {
+    "ID": 1725,
+    "message": "it was a suicide note that was left to die."
+  },
+  {
+    "ID": 1726,
+    "message": "it was a shock to everyone in the party that i was just going to end it"
+  },
+  {
+    "ID": 1727,
+    "message": "my suicide note was an attempt at killing myself."
+  },
+  {
+    "ID": 1728,
+    "message": "why does this bullet bullet stop me from getting out of my mind!"
+  },
+  {
+    "ID": 1729,
+    "message": "i've just lost my mind."
+  },
+  {
+    "ID": 1730,
+    "message": "i want to die instantly"
+  },
+  {
+    "ID": 1731,
+    "message": "i didn't know about it all."
+  },
+  {
+    "ID": 1732,
+    "message": "i think about killing myself, but not thinking of killing myself"
+  },
+  {
+    "ID": 1733,
+    "message": "It's nothing, just a cry for help."
+  },
+  {
+    "ID": 1734,
+    "message": "i tried to kill myself and all my friends"
+  },
+  {
+    "ID": 1735,
+    "message": "i want to die but i do not have a reason to live anymore."
+  },
+  {
+    "ID": 1736,
+    "message": "i want to go to hell."
+  },
+  {
+    "ID": 1737,
+    "message": "i want to die slowly."
+  },
+  {
+    "ID": 1738,
+    "message": "i tried to kill myself with a belt."
+  },
+  {
+    "ID": 1739,
+    "message": "my friend decided to suicide."
+  },
+  {
+    "ID": 1740,
+    "message": "i didn't know the answer to the hotline"
+  },
+  {
+    "ID": 1741,
+    "message": "how to kill ourselves with the belt."
+  },
+  {
+    "ID": 1742,
+    "message": "i'm so bored of life."
+  },
+  {
+    "ID": 1743,
+    "message": "i really want to die again."
+  },
+  {
+    "ID": 1744,
+    "message": "I wanted to commit suicide"
+  },
+  {
+    "ID": 1745,
+    "message": "my friend told me she died"
+  },
+  {
+    "ID": 1746,
+    "message": "am going to die again, i want to end this life."
+  },
+  {
+    "ID": 1747,
+    "message": "i think i should be ashamed of committing suicide."
+  },
+  {
+    "ID": 1748,
+    "message": "what happens when i say i'll end it?"
+  },
+  {
+    "ID": 1749,
+    "message": "i have to cope with the pain of my own life."
+  },
+  {
+    "ID": 1750,
+    "message": "thinking like this and killing myself"
+  },
+  {
+    "ID": 1751,
+    "message": "i tried to commit suicide, and i just want to die right now"
+  },
+  {
+    "ID": 1752,
+    "message": "he wanted to kill himself."
+  },
+  {
+    "ID": 1753,
+    "message": "i think i was a successful attempt at killing myself"
+  },
+  {
+    "ID": 1754,
+    "message": "i don't care about anyone anymore"
+  },
+  {
+    "ID": 1755,
+    "message": "I feel like i'm taking a serious note of my own."
+  },
+  {
+    "ID": 1756,
+    "message": "i'm going to end it right now."
+  },
+  {
+    "ID": 1757,
+    "message": "i'm depressed by the end of the year."
+  },
+  {
+    "ID": 1758,
+    "message": "in the middle of an emotional, suicidal, depression, or high school feeling like a failed attempt at suicide."
+  },
+  {
+    "ID": 1759,
+    "message": "i want to end it all"
+  },
+  {
+    "ID": 1760,
+    "message": "I got a fucking reason to live, i think i would rather die."
+  },
+  {
+    "ID": 1761,
+    "message": "i want to die this weekend"
+  },
+  {
+    "ID": 1762,
+    "message": "i wanted to die today."
+  },
+  {
+    "ID": 1763,
+    "message": "i know that i have murdered myself."
+  },
+  {
+    "ID": 1764,
+    "message": "i don't wanna talk about anything anymore?"
+  },
+  {
+    "ID": 1765,
+    "message": "if the answer is yes, it's so fucking hard."
+  },
+  {
+    "ID": 1766,
+    "message": "I'm going to jump into a pair of scissors, cutting them."
+  },
+  {
+    "ID": 1767,
+    "message": "am going to cry."
+  },
+  {
+    "ID": 1768,
+    "message": "seems like a doctor or a friend to me."
+  },
+  {
+    "ID": 1769,
+    "message": "i want to die, this is a myth"
+  },
+  {
+    "ID": 1770,
+    "message": "my friend killed myself"
+  },
+  {
+    "ID": 1771,
+    "message": "how can i kill myself"
+  },
+  {
+    "ID": 1772,
+    "message": "he was an honest victim."
+  },
+  {
+    "ID": 1773,
+    "message": "hope you don't have any"
+  },
+  {
+    "ID": 1774,
+    "message": "I'm sick of living here."
+  },
+  {
+    "ID": 1775,
+    "message": "i had the urge to jump."
+  },
+  {
+    "ID": 1776,
+    "message": "A friend of mine told me that i should die and everyone would hate me when i found myself."
+  },
+  {
+    "ID": 1777,
+    "message": "it was a common sense suicide."
+  },
+  {
+    "ID": 1778,
+    "message": "i wanna kill myself."
+  },
+  {
+    "ID": 1779,
+    "message": "i want to die today, i want to go to a better school"
+  },
+  {
+    "ID": 1780,
+    "message": "i just wanna die."
+  },
+  {
+    "ID": 1781,
+    "message": "Why shouldn't I die tonight"
+  },
+  {
+    "ID": 1782,
+    "message": "hope i want to die."
+  },
+  {
+    "ID": 1783,
+    "message": "i'm going to commit suicide"
+  },
+  {
+    "ID": 1784,
+    "message": "what happens to my body"
+  },
+  {
+    "ID": 1785,
+    "message": "i want to die without pain."
+  },
+  {
+    "ID": 1786,
+    "message": "finally, I want to die right now."
+  },
+  {
+    "ID": 1787,
+    "message": "i am going to go out with a suicide note"
+  },
+  {
+    "ID": 1788,
+    "message": "death happens when my friend was bored of life."
+  },
+  {
+    "ID": 1789,
+    "message": "I'd rather live this pain, i want to die."
+  },
+  {
+    "ID": 1790,
+    "message": "i want to die but i don't want to die today."
+  },
+  {
+    "ID": 1791,
+    "message": "I don't know how to talk about it"
+  },
+  {
+    "ID": 1792,
+    "message": "It ended my life."
+  },
+  {
+    "ID": 1793,
+    "message": "i wanna die myself."
+  },
+  {
+    "ID": 1794,
+    "message": "i feel like suicide."
+  },
+  {
+    "ID": 1795,
+    "message": "wanna die alone?"
+  },
+  {
+    "ID": 1796,
+    "message": "i want to die right now."
+  },
+  {
+    "ID": 1797,
+    "message": "i just want to die because i can't cope."
+  },
+  {
+    "ID": 1798,
+    "message": "i was an attempt at killing myself."
+  },
+  {
+    "ID": 1799,
+    "message": "i know that i'm not a good enough person to live."
+  },
+  {
+    "ID": 1800,
+    "message": "i just want to die today, but i want to die today."
+  },
+  {
+    "ID": 1801,
+    "message": "my suicide note was the answer, OK."
+  },
+  {
+    "ID": 1802,
+    "message": "i do not want to be a kid anymore."
+  },
+  {
+    "ID": 1803,
+    "message": "going to heaven to burn my wrists."
+  },
+  {
+    "ID": 1804,
+    "message": "i am not good at killing myself."
+  },
+  {
+    "ID": 1805,
+    "message": "why did i kill myself yesterday."
+  },
+  {
+    "ID": 1806,
+    "message": "we are going to die."
+  },
+  {
+    "ID": 1807,
+    "message": "A friend of mine was trying to commit suicide"
+  },
+  {
+    "ID": 1808,
+    "message": "it was a horrible place to live."
+  },
+  {
+    "ID": 1809,
+    "message": "i have committed suicide"
+  },
+  {
+    "ID": 1810,
+    "message": "in the first place"
+  },
+  {
+    "ID": 1811,
+    "message": "i don't wanna die anymore."
+  },
+  {
+    "ID": 1812,
+    "message": "i will end my life."
+  },
+  {
+    "ID": 1813,
+    "message": "A suicide note from a doctor about drugs and death."
+  },
+  {
+    "ID": 1814,
+    "message": "my dad was the reason why i decided to suicide"
+  },
+  {
+    "ID": 1815,
+    "message": "i'm sick of life, i need to die."
+  },
+  {
+    "ID": 1816,
+    "message": "it was all my own pain, i really should have died, so that i could stop the pain of the pain."
+  },
+  {
+    "ID": 1817,
+    "message": "The reason why I'm here to tell you about a gruesome suicide note"
+  },
+  {
+    "ID": 1818,
+    "message": "I think he will take my life"
+  },
+  {
+    "ID": 1819,
+    "message": "i'll kill myself again"
+  },
+  {
+    "ID": 1820,
+    "message": "I tried to kill myself?"
+  },
+  {
+    "ID": 1821,
+    "message": "is a doctor who has taken steps to end her life."
+  },
+  {
+    "ID": 1822,
+    "message": "i'll stop thinking of suicide"
+  },
+  {
+    "ID": 1823,
+    "message": "seems to be cutting my wrists"
+  },
+  {
+    "ID": 1824,
+    "message": "it just isn't working for you anymore."
+  },
+  {
+    "ID": 1825,
+    "message": "i want to die, i want to be cut down."
+  },
+  {
+    "ID": 1826,
+    "message": "I'm going to end my life"
+  },
+  {
+    "ID": 1827,
+    "message": "i'm going to kill myself, I'm not going to go into my room."
+  },
+  {
+    "ID": 1828,
+    "message": "i really want to die, and everyone knows that it's OK to die."
+  },
+  {
+    "ID": 1829,
+    "message": "death is a lot like this."
+  },
+  {
+    "ID": 1830,
+    "message": "I heard that an old friend tried to kill himself"
+  },
+  {
+    "ID": 1831,
+    "message": "i'm going to end it, but i'm not going to talk to you anymore."
+  },
+  {
+    "ID": 1832,
+    "message": "I told you all about how to kill yourself."
+  },
+  {
+    "ID": 1833,
+    "message": "i wanna die, i'm sick of my life?"
+  },
+  {
+    "ID": 1834,
+    "message": "i wonder if i have a sister and i should try to kill myself"
+  },
+  {
+    "ID": 1835,
+    "message": "i don't want to live this way anymore."
+  },
+  {
+    "ID": 1836,
+    "message": "A friend tried to kill herself."
+  },
+  {
+    "ID": 1837,
+    "message": "ive been sick and tired of living, so i might jump through the window."
+  },
+  {
+    "ID": 1838,
+    "message": "i wish I could live anymore."
+  },
+  {
+    "ID": 1839,
+    "message": "I have an entire life 'died"
+  },
+  {
+    "ID": 1840,
+    "message": "how many times i should have had to die."
+  },
+  {
+    "ID": 1841,
+    "message": "i need to die because my depression ended it, and i had to live through the entire fucking year."
+  },
+  {
+    "ID": 1842,
+    "message": "a kid who really wanted to die."
+  },
+  {
+    "ID": 1843,
+    "message": "suicide is the answer"
+  },
+  {
+    "ID": 1844,
+    "message": "am gonna die soon"
+  },
+  {
+    "ID": 1845,
+    "message": "how is the police getting rid of me."
+  },
+  {
+    "ID": 1846,
+    "message": "hope i just survived, i just decided to end it"
+  },
+  {
+    "ID": 1847,
+    "message": "i just wanted to end this pain."
+  },
+  {
+    "ID": 1848,
+    "message": "death will surely be painful."
+  },
+  {
+    "ID": 1849,
+    "message": "what the hell did you do?"
+  },
+  {
+    "ID": 1850,
+    "message": "i have to end it now."
+  },
+  {
+    "ID": 1851,
+    "message": "ive ended my life."
+  },
+  {
+    "ID": 1852,
+    "message": "i'm really depressed and i want to die."
+  },
+  {
+    "ID": 1853,
+    "message": "suicide is the quickest way to get out of this misery?"
+  },
+  {
+    "ID": 1854,
+    "message": "a friend committed suicide"
+  },
+  {
+    "ID": 1855,
+    "message": "i'm trying to figure out what to do"
+  },
+  {
+    "ID": 1856,
+    "message": "i wonder if the suicide attempts of my friends have been a cry for help"
+  },
+  {
+    "ID": 1857,
+    "message": "A friend told me of suicide, i told her i was going to hang myself"
+  },
+  {
+    "ID": 1858,
+    "message": "A common cry for help is a response to an attempted suicide."
+  },
+  {
+    "ID": 1859,
+    "message": "is what happens when i'm depressed"
+  },
+  {
+    "ID": 1860,
+    "message": "i just want to die slowly, just because i want to die slowly."
+  },
+  {
+    "ID": 1861,
+    "message": "i want to die, i just want to die."
+  },
+  {
+    "ID": 1862,
+    "message": "i just wanted to live, i'll do it now."
+  },
+  {
+    "ID": 1863,
+    "message": "i want to die,"
+  },
+  {
+    "ID": 1864,
+    "message": "i'm sorry for killing myself, i'm going to jump on a train and I'll end it."
+  },
+  {
+    "ID": 1865,
+    "message": "i want to die now, now and again."
+  },
+  {
+    "ID": 1866,
+    "message": "I'm gonna go to heaven."
+  },
+  {
+    "ID": 1867,
+    "message": "i don't want to talk anymore about this anymore."
+  },
+  {
+    "ID": 1868,
+    "message": "i want to die without feeling any pain or sadness."
+  },
+  {
+    "ID": 1869,
+    "message": "i want to kill myself"
+  },
+  {
+    "ID": 1870,
+    "message": "i have just completed killing myself."
+  },
+  {
+    "ID": 1871,
+    "message": "i have tried to kill myself again, all the time, no answer."
+  },
+  {
+    "ID": 1872,
+    "message": "i want to die alone?"
+  },
+  {
+    "ID": 1873,
+    "message": "i'm going to end my life."
+  },
+  {
+    "ID": 1874,
+    "message": "ive done it again"
+  },
+  {
+    "ID": 1875,
+    "message": "if you are so worried about my suicide."
+  },
+  {
+    "ID": 1876,
+    "message": "i tried to kill myself by hanging myself from the head."
+  },
+  {
+    "ID": 1877,
+    "message": "A friend of mine who is committed suicide is clearly suicidal"
+  },
+  {
+    "ID": 1878,
+    "message": "it is better to die alone?"
+  },
+  {
+    "ID": 1879,
+    "message": "i just decided to commit suicide"
+  },
+  {
+    "ID": 1880,
+    "message": "am going to suicide"
+  },
+  {
+    "ID": 1881,
+    "message": "ive been thinking of suicide in my head"
+  },
+  {
+    "ID": 1882,
+    "message": "i'm sorry, i think i want to end this life."
+  },
+  {
+    "ID": 1883,
+    "message": "it was horrible to live, and i wouldnt have to live anymore."
+  },
+  {
+    "ID": 1884,
+    "message": "i do not want to go to school to end my life?"
+  },
+  {
+    "ID": 1885,
+    "message": "i feel like i have a lot of pain."
+  },
+  {
+    "ID": 1886,
+    "message": "why i am so suicidal."
+  },
+  {
+    "ID": 1887,
+    "message": "I'm trying to kill myself"
+  },
+  {
+    "ID": 1888,
+    "message": "i want to die slowly, i want to die now."
+  },
+  {
+    "ID": 1889,
+    "message": "i'm sorry, but i still have to tell everyone about this."
+  },
+  {
+    "ID": 1890,
+    "message": "i'll end my life."
+  },
+  {
+    "ID": 1891,
+    "message": "if i die, I don't want to live."
+  },
+  {
+    "ID": 1892,
+    "message": "a friend committed suicide, i just wanted to die?"
+  },
+  {
+    "ID": 1893,
+    "message": "i have tried to end it all."
+  },
+  {
+    "ID": 1894,
+    "message": "seems to feel like i'm getting up and going to get down."
+  },
+  {
+    "ID": 1895,
+    "message": "i want to die now"
+  },
+  {
+    "ID": 1896,
+    "message": "I have a reason to live."
+  },
+  {
+    "ID": 1897,
+    "message": "i don't want to die anymore and I want to end it with a bullet to the head."
+  },
+  {
+    "ID": 1898,
+    "message": "i felt like i really wanted to kill myself now, but i didn't have to stop it anymore."
+  },
+  {
+    "ID": 1899,
+    "message": "I want to die, don't wanna live, just want to die."
+  },
+  {
+    "ID": 1900,
+    "message": "I do not want to die."
+  },
+  {
+    "ID": 1901,
+    "message": "suicide by self-harm"
+  },
+  {
+    "ID": 1902,
+    "message": "i'm so tired of living my life alone, i want to die."
+  },
+  {
+    "ID": 1903,
+    "message": "tired of it all and i think i should die so soon"
+  },
+  {
+    "ID": 1904,
+    "message": "i don't know what to do about this?"
+  },
+  {
+    "ID": 1905,
+    "message": "don't care about anything"
+  },
+  {
+    "ID": 1906,
+    "message": "i want to live without pain anymore?"
+  },
+  {
+    "ID": 1907,
+    "message": "i am taking pills when i want to die, i am going to live."
+  },
+  {
+    "ID": 1908,
+    "message": "I was suicidal to life."
+  },
+  {
+    "ID": 1909,
+    "message": "my friend lost her life."
+  },
+  {
+    "ID": 1910,
+    "message": "i am not so good at living anymore."
+  },
+  {
+    "ID": 1911,
+    "message": "i'll kill myself."
+  },
+  {
+    "ID": 1912,
+    "message": "a suicide is the answer"
+  },
+  {
+    "ID": 1913,
+    "message": "my friends lost their jobs"
+  },
+  {
+    "ID": 1914,
+    "message": "we're depressed?"
+  },
+  {
+    "ID": 1915,
+    "message": "I just can't live anymore."
+  },
+  {
+    "ID": 1916,
+    "message": "It is killing me right now."
+  },
+  {
+    "ID": 1917,
+    "message": "i want to die?"
+  },
+  {
+    "ID": 1918,
+    "message": "i'm sure i've had the urge to kill myself."
+  },
+  {
+    "ID": 1919,
+    "message": "i'm gonna end this misery"
+  },
+  {
+    "ID": 1920,
+    "message": "I'm a horrible person who would prefer to die than live with"
+  },
+  {
+    "ID": 1921,
+    "message": "I wanted to kill myself."
+  },
+  {
+    "ID": 1922,
+    "message": "hope is finally over, it will all be for ix nothing."
+  },
+  {
+    "ID": 1923,
+    "message": "i want to die because i know i'll never again"
+  },
+  {
+    "ID": 1924,
+    "message": "it was an attempt at killing myself."
+  },
+  {
+    "ID": 1925,
+    "message": "A friend of mine tried suicide."
+  },
+  {
+    "ID": 1926,
+    "message": "i felt like i was about to end my life."
+  },
+  {
+    "ID": 1927,
+    "message": "i wanted to die of the pain of my own trying to kill myself"
+  },
+  {
+    "ID": 1928,
+    "message": "i'm going to call a suicide hotline"
+  },
+  {
+    "ID": 1929,
+    "message": "it isn't worth it anymore, i don't have anything left to live for."
+  },
+  {
+    "ID": 1930,
+    "message": "i'm going to kill myself"
+  },
+  {
+    "ID": 1931,
+    "message": "no one has survived."
+  },
+  {
+    "ID": 1932,
+    "message": "i really need to die."
+  },
+  {
+    "ID": 1933,
+    "message": "i have to live with crippling depression"
+  },
+  {
+    "ID": 1934,
+    "message": "i think I'm a fucking retard."
+  },
+  {
+    "ID": 1935,
+    "message": "a friend tried to kill herself"
+  },
+  {
+    "ID": 1936,
+    "message": "no one knows how to train my body to kill myself and myself"
+  },
+  {
+    "ID": 1937,
+    "message": "i am sick and tired of living,"
+  },
+  {
+    "ID": 1938,
+    "message": "i should have died"
+  },
+  {
+    "ID": 1939,
+    "message": "we will take time to live"
+  },
+  {
+    "ID": 1940,
+    "message": "i don't want to die now, i want to die."
+  },
+  {
+    "ID": 1941,
+    "message": "i think it over, i don't know if i should do this anymore."
+  },
+  {
+    "ID": 1942,
+    "message": "I tried to end it this week"
+  },
+  {
+    "ID": 1943,
+    "message": "i've completed suicide"
+  },
+  {
+    "ID": 1944,
+    "message": "going to work for me, killing myself, and throwing myself into the arms of a suicidal urge to end it."
+  },
+  {
+    "ID": 1945,
+    "message": "i know that I really do not want to live anymore."
+  },
+  {
+    "ID": 1946,
+    "message": "ive been so much more depressed, but i want to end my life this weekend, i want to end it."
+  },
+  {
+    "ID": 1947,
+    "message": "i had a negative answer and my life ended."
+  },
+  {
+    "ID": 1948,
+    "message": "a friend attempted suicide, i want to die."
+  },
+  {
+    "ID": 1949,
+    "message": "i wanna die, i want to be the only one who commits suicide"
+  },
+  {
+    "ID": 1950,
+    "message": "I tried to suicide, OK?"
+  },
+  {
+    "ID": 1951,
+    "message": "why i think i need to be fucking depressed"
+  },
+  {
+    "ID": 1952,
+    "message": "I am not a self-promoter, sorry if i had the urge to kill myself."
+  },
+  {
+    "ID": 1953,
+    "message": "i want to die, i wanted to do this."
+  },
+  {
+    "ID": 1954,
+    "message": "is not suicidal anymore."
+  },
+  {
+    "ID": 1955,
+    "message": "it wasn't like this, i just wanted to end it all."
+  },
+  {
+    "ID": 1956,
+    "message": "am i just trying to commit suicide, i'm not sure how to end it."
+  },
+  {
+    "ID": 1957,
+    "message": "i know i just want to kill myself."
+  },
+  {
+    "ID": 1958,
+    "message": "i want to die, no one knows how to end it."
+  },
+  {
+    "ID": 1959,
+    "message": "i don't want to live anymore, suicide will be the only solution"
+  },
+  {
+    "ID": 1960,
+    "message": "i want to die of old tired of life"
+  },
+  {
+    "ID": 1961,
+    "message": "i think i would rather live life if i was alone."
+  },
+  {
+    "ID": 1962,
+    "message": "I told you that I was going to kill myself."
+  },
+  {
+    "ID": 1963,
+    "message": "i want to die, now I want to die."
+  },
+  {
+    "ID": 1964,
+    "message": "i don't care about the misery of the living, i don't want to live, i want to die, i want to die."
+  },
+  {
+    "ID": 1965,
+    "message": "i want to die alone."
+  },
+  {
+    "ID": 1966,
+    "message": "i wanna die tonight, and i know i shouldn't live anymore."
+  },
+  {
+    "ID": 1967,
+    "message": "i really want to die, he wanted to say yes, it wasn't the time to be serious."
+  },
+  {
+    "ID": 1968,
+    "message": "i'm going to go back to hating myself"
+  },
+  {
+    "ID": 1969,
+    "message": "i have an issue with suicide prevention."
+  },
+  {
+    "ID": 1970,
+    "message": "i was depressed and suicidal?"
+  },
+  {
+    "ID": 1971,
+    "message": "i am so sick of living, i want to die."
+  },
+  {
+    "ID": 1972,
+    "message": "if i'm sick of living"
+  },
+  {
+    "ID": 1973,
+    "message": "i want to end my life?"
+  },
+  {
+    "ID": 1974,
+    "message": "i don't want to live anymore, because this is nothing but depression"
+  },
+  {
+    "ID": 1975,
+    "message": "i feel sick, i don't want to talk to myself anymore."
+  },
+  {
+    "ID": 1976,
+    "message": "my friends are going to die, i just want to live."
+  },
+  {
+    "ID": 1977,
+    "message": "death would be a laughingstock"
+  },
+  {
+    "ID": 1978,
+    "message": "i've failed at all, i will surely take them down again."
+  },
+  {
+    "ID": 1979,
+    "message": "i'm going to kill myself?"
+  },
+  {
+    "ID": 1980,
+    "message": "i wish i would die today, but I am too depressed to live."
+  },
+  {
+    "ID": 1981,
+    "message": "a friend of mine had an extremely successful suicide attempt, i wanted to end it now."
+  },
+  {
+    "ID": 1982,
+    "message": "so much of my life, it will be over"
+  },
+  {
+    "ID": 1983,
+    "message": "if i want to die, i want to die,"
+  },
+  {
+    "ID": 1984,
+    "message": "it was just a very sick decision,"
+  },
+  {
+    "ID": 1985,
+    "message": "i want to die now."
+  },
+  {
+    "ID": 1986,
+    "message": "i think about suicide."
+  },
+  {
+    "ID": 1987,
+    "message": "hope i just decided to end it all"
+  },
+  {
+    "ID": 1988,
+    "message": "i can't wait for someone to kill themselves"
+  },
+  {
+    "ID": 1989,
+    "message": "hope i don't have to live anymore."
+  },
+  {
+    "ID": 1990,
+    "message": "i just wanted to kill myself."
+  },
+  {
+    "ID": 1991,
+    "message": "i really need to die now"
+  },
+  {
+    "ID": 1992,
+    "message": "I tried to kill myself,"
+  },
+  {
+    "ID": 1993,
+    "message": "i want to die this year."
+  },
+  {
+    "ID": 1994,
+    "message": "am gonna take it all and burn myself alive."
+  },
+  {
+    "ID": 1995,
+    "message": "how do i kill myself"
+  },
+  {
+    "ID": 1996,
+    "message": "I feel like i'm getting upset and so bored at the time."
+  },
+  {
+    "ID": 1997,
+    "message": "Suicide is the answer, I don't want to die."
+  },
+  {
+    "ID": 1998,
+    "message": "i am going to die and i wanna use my life to do."
+  },
+  {
+    "ID": 1999,
+    "message": "hope i'll have more to live for."
+  },
+  {
+    "ID": 2000,
+    "message": "I'm going to smoke, don't want to die"
+  },
+  {
+    "ID": 2001,
+    "message": "i want to die again"
+  },
+  {
+    "ID": 2002,
+    "message": "I don't know what i want to live for, i want to die right now."
+  },
+  {
+    "ID": 2003,
+    "message": "is a victim of suicide"
+  },
+  {
+    "ID": 2004,
+    "message": "ive been so long, i'll cut my wrists and hang myself"
+  },
+  {
+    "ID": 2005,
+    "message": "i need help now"
+  },
+  {
+    "ID": 2006,
+    "message": "my friend killed himself and attempted suicide"
+  },
+  {
+    "ID": 2007,
+    "message": "i know nothing about the reason i lived this entire life, and i would have decided to end it."
+  },
+  {
+    "ID": 2008,
+    "message": "i wanna die!"
+  },
+  {
+    "ID": 2009,
+    "message": "Why the hell am I thinking about suicide"
+  },
+  {
+    "ID": 2010,
+    "message": "died but this was better than life"
+  },
+  {
+    "ID": 2011,
+    "message": "I would rather have to end my life now."
+  },
+  {
+    "ID": 2012,
+    "message": "I was deeply depressed about killing myself"
+  },
+  {
+    "ID": 2013,
+    "message": "tired of waiting for something to end it,"
+  },
+  {
+    "ID": 2014,
+    "message": "wanna die!"
+  },
+  {
+    "ID": 2015,
+    "message": "Suicide is not the answer"
+  },
+  {
+    "ID": 2016,
+    "message": "A friend of mine tried to kill herself."
+  },
+  {
+    "ID": 2017,
+    "message": "i'm going to die, i want to die."
+  },
+  {
+    "ID": 2018,
+    "message": "i know that i can't get rid."
+  },
+  {
+    "ID": 2019,
+    "message": "a kid, i want to die tonight."
+  },
+  {
+    "ID": 2020,
+    "message": "my teacher died, my teacher was murdered."
+  },
+  {
+    "ID": 2021,
+    "message": "he was just trying to die."
+  },
+  {
+    "ID": 2022,
+    "message": "a friend killed himself by hanging himself."
+  },
+  {
+    "ID": 2023,
+    "message": "i don't think i'm going to commit suicide"
+  },
+  {
+    "ID": 2024,
+    "message": "i'm taking steps to end my life"
+  },
+  {
+    "ID": 2025,
+    "message": "I want nothing to live for!"
+  },
+  {
+    "ID": 2026,
+    "message": "i want to die, i want to be rid, i want to die."
+  },
+  {
+    "ID": 2027,
+    "message": "I am going to end it all with a smile"
+  },
+  {
+    "ID": 2028,
+    "message": "The suicide note was the most gruesome act of violence any person could imagine"
+  },
+  {
+    "ID": 2029,
+    "message": "I just don't want to die anymore."
+  },
+  {
+    "ID": 2030,
+    "message": "tired of feeling like it."
+  },
+  {
+    "ID": 2031,
+    "message": "i think i should be ashamed of my life."
+  },
+  {
+    "ID": 2032,
+    "message": "i have nothing to live for i just want to die of a high school hangup."
+  },
+  {
+    "ID": 2033,
+    "message": "I want to have a life with depression"
+  },
+  {
+    "ID": 2034,
+    "message": "tired of living, i want to die, now when the time is right"
+  },
+  {
+    "ID": 2035,
+    "message": "i need to take my own life"
+  },
+  {
+    "ID": 2036,
+    "message": "i wish to die today, and i want to live, and i want to die today."
+  },
+  {
+    "ID": 2037,
+    "message": "i've got nothing left to live for."
+  },
+  {
+    "ID": 2038,
+    "message": "I feel like I've been taken over by my own parents?"
+  },
+  {
+    "ID": 2039,
+    "message": "i know nothing about them, but i'm serious about killing myself."
+  },
+  {
+    "ID": 2040,
+    "message": "A friend told me to kill myself"
+  },
+  {
+    "ID": 2041,
+    "message": "a friend who got depressed, committed suicide"
+  },
+  {
+    "ID": 2042,
+    "message": "i'm thinking of killing myself"
+  },
+  {
+    "ID": 2043,
+    "message": "i really want to end my life."
+  },
+  {
+    "ID": 2044,
+    "message": "i have to go throughtired of living a life of misery..."
+  },
+  {
+    "ID": 2045,
+    "message": "am tired of living, and i have ended my life?"
+  },
+  {
+    "ID": 2046,
+    "message": "I don't want to live any longer"
+  },
+  {
+    "ID": 2047,
+    "message": "he ended my life."
+  },
+  {
+    "ID": 2048,
+    "message": "i think of suicide."
+  },
+  {
+    "ID": 2049,
+    "message": "i hate the first fucking fucking time i have to live."
+  },
+  {
+    "ID": 2050,
+    "message": "i am ashamed of myself, and my life isn't worth living, but i can't figure out how to live."
+  },
+  {
+    "ID": 2051,
+    "message": "going to end it all."
+  },
+  {
+    "ID": 2052,
+    "message": "i don't think i should live anymore."
+  },
+  {
+    "ID": 2053,
+    "message": "i want to die instantly, i want to die soon."
+  },
+  {
+    "ID": 2054,
+    "message": "i don't want to die today, i wanna die now."
+  },
+  {
+    "ID": 2055,
+    "message": "a friend of mine had a suicidal attempt at suicide"
+  },
+  {
+    "ID": 2056,
+    "message": "i want to die right now, i want to live."
+  },
+  {
+    "ID": 2057,
+    "message": "no one wanted to kill themselves."
+  },
+  {
+    "ID": 2058,
+    "message": "i feel like i'm not worth living."
+  },
+  {
+    "ID": 2059,
+    "message": "he had taken steps to end it."
+  },
+  {
+    "ID": 2060,
+    "message": "i have committed suicide."
+  },
+  {
+    "ID": 2061,
+    "message": "thinking of suicide"
+  },
+  {
+    "ID": 2062,
+    "message": "i heard something that made my head bleed."
+  },
+  {
+    "ID": 2063,
+    "message": "so tired of living in this one year."
+  },
+  {
+    "ID": 2064,
+    "message": "i wanted to die now"
+  },
+  {
+    "ID": 2065,
+    "message": "i am going to die and my friend will surely kill myself,"
+  },
+  {
+    "ID": 2066,
+    "message": "i'm so depressed that i can't take it anymore."
+  },
+  {
+    "ID": 2067,
+    "message": "i heard a cry for help and pain in the butt,"
+  },
+  {
+    "ID": 2068,
+    "message": "I was taking pills for i want to die."
+  },
+  {
+    "ID": 2069,
+    "message": "it was so hard to live, this was so horrible"
+  },
+  {
+    "ID": 2070,
+    "message": "i'm feeling down about my own life."
+  },
+  {
+    "ID": 2071,
+    "message": "i am going to end it all."
+  },
+  {
+    "ID": 2072,
+    "message": "I'm gonna kill myself."
+  },
+  {
+    "ID": 2073,
+    "message": "what is a pushcart to push."
+  },
+  {
+    "ID": 2074,
+    "message": "a friend told me that she had a mental illness, i want nothing to do with myself anymore."
+  },
+  {
+    "ID": 2075,
+    "message": "i've just decided to end it."
+  },
+  {
+    "ID": 2076,
+    "message": "A friend and a suicide note has been found"
+  },
+  {
+    "ID": 2077,
+    "message": "i can't stop thinking about killing myself, but now i want to die."
+  },
+  {
+    "ID": 2078,
+    "message": "i'm going to kill myself again."
+  },
+  {
+    "ID": 2079,
+    "message": "what happens when my sister commits suicide"
+  },
+  {
+    "ID": 2080,
+    "message": "i'm sorry for my friends."
+  },
+  {
+    "ID": 2081,
+    "message": "i wanted to die."
+  },
+  {
+    "ID": 2082,
+    "message": "I'm not a child anymore."
+  },
+  {
+    "ID": 2083,
+    "message": "i'm so upset about the way things are, i want to die today."
+  },
+  {
+    "ID": 2084,
+    "message": "it was my way of killing myself."
+  },
+  {
+    "ID": 2085,
+    "message": "don't want to be alive again, no longer want to be alive anymore."
+  },
+  {
+    "ID": 2086,
+    "message": "I feel like a child again, i want to die."
+  },
+  {
+    "ID": 2087,
+    "message": "why am i thinking about killing myself"
   }
 ]
